@@ -1,0 +1,6 @@
+@basel.api_HostAddress = http://localhost:5220
+
+GET {{basel.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

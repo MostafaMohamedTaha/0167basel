@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basel.api", "basel.api\basel.api.csproj", "{C71598AD-5156-404C-B7BA-21F972348B46}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A} = {9FE80DB6-E11C-48D7-8800-B25EEC03E07A}
+		{C4D3414F-EC5D-4356-97A9-EB91614EACE0} = {C4D3414F-EC5D-4356-97A9-EB91614EACE0}
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB} = {F0C52A30-831F-46C1-88B8-3BFD557100DB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basel.entity", "basel.entity\basel.entity.csproj", "{9FE80DB6-E11C-48D7-8800-B25EEC03E07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basel.infra", "basel.infra\basel.infra.csproj", "{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basel.service", "basel.service\basel.service.csproj", "{F0C52A30-831F-46C1-88B8-3BFD557100DB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A} = {9FE80DB6-E11C-48D7-8800-B25EEC03E07A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basel.core", "basel.core\basel.core.csproj", "{C4D3414F-EC5D-4356-97A9-EB91614EACE0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D} = {6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A} = {9FE80DB6-E11C-48D7-8800-B25EEC03E07A}
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB} = {F0C52A30-831F-46C1-88B8-3BFD557100DB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71598AD-5156-404C-B7BA-21F972348B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71598AD-5156-404C-B7BA-21F972348B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71598AD-5156-404C-B7BA-21F972348B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71598AD-5156-404C-B7BA-21F972348B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE80DB6-E11C-48D7-8800-B25EEC03E07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8CAFEB-1AFB-46CE-AAD4-F81BED62C22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C52A30-831F-46C1-88B8-3BFD557100DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D3414F-EC5D-4356-97A9-EB91614EACE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D3414F-EC5D-4356-97A9-EB91614EACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D3414F-EC5D-4356-97A9-EB91614EACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D3414F-EC5D-4356-97A9-EB91614EACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CA5971-86A4-4F06-938C-AA480EF92251}
+	EndGlobalSection
+EndGlobal
