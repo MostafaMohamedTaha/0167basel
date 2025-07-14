@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "basel.api.Controllers.StudentController",
+    "Method": "GetStudentsById",
+    "RelativePath": "api/v1/student/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "basel.api.Controllers.StudentController",
+    "Method": "GetStudents",
+    "RelativePath": "api/v1/student/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

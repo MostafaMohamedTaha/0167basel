@@ -1,0 +1,17 @@
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.infra.deps.json
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.infra.runtimeconfig.json
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.infra.dll
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.infra.pdb
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.entity.dll
+D:\0p\0167basel\basel\basel.infra\bin\Debug\net9.0\basel.entity.pdb
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.csproj.AssemblyReference.cache
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.AssemblyInfoInputs.cache
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.AssemblyInfo.cs
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.csproj.CoreCompileInputs.cache
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.in.0C85BB71.Up2Date
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.dll
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\refint\basel.infra.dll
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.pdb
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\basel.infra.genruntimeconfig.cache
+D:\0p\0167basel\basel\basel.infra\obj\Debug\net9.0\ref\basel.infra.dll

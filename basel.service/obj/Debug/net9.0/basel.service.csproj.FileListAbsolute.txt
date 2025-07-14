@@ -1,0 +1,17 @@
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.service.deps.json
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.service.dll
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.service.pdb
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.entity.dll
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.infra.dll
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.infra.pdb
+D:\0p\0167basel\basel\basel.service\bin\Debug\net9.0\basel.entity.pdb
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.csproj.AssemblyReference.cache
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.AssemblyInfoInputs.cache
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.AssemblyInfo.cs
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.csproj.CoreCompileInputs.cache
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.se.21B59CC6.Up2Date
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.dll
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\refint\basel.service.dll
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\basel.service.pdb
+D:\0p\0167basel\basel\basel.service\obj\Debug\net9.0\ref\basel.service.dll

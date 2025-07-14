@@ -1,0 +1,11 @@
+D:\0p\0167basel\basel\basel.entity\bin\Debug\net9.0\basel.entity.deps.json
+D:\0p\0167basel\basel\basel.entity\bin\Debug\net9.0\basel.entity.dll
+D:\0p\0167basel\basel\basel.entity\bin\Debug\net9.0\basel.entity.pdb
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.AssemblyInfoInputs.cache
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.AssemblyInfo.cs
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.csproj.CoreCompileInputs.cache
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.dll
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\refint\basel.entity.dll
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\basel.entity.pdb
+D:\0p\0167basel\basel\basel.entity\obj\Debug\net9.0\ref\basel.entity.dll
