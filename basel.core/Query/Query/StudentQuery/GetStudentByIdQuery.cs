@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace basel.core.Query.Query.StudentQuery
 {
-    public class GetStudentByIdQuery : IRequest<Res<List<StudentByIdDto>>>
+    public class GetStudentByIdQuery : IRequest<Res<StudentByIdDto>>
     {
         public int Id { get; set; }
         public GetStudentByIdQuery(int id)

@@ -17,6 +17,10 @@ namespace basel.core.Mapper.StudentMapper
                     .Map(dest => dest.DepartmentName,
                     src => src.Departments != null ?
                     src.Departments.Name : null);
+            config.NewConfig<Student, StudentByIdDto>()
+                    .Map(dest => dest.DepartmentName,
+                    src => src.Departments != null ?
+                    src.Departments.Name : null);
         }
     }
 }

@@ -13,7 +13,9 @@ using System.Threading.Tasks;
 
 namespace basel.core.Query.Handle
 {
-    public class StudentHandler : ResHandler, IRequestHandler<GetStudentQuery, Res<List<StudentDto>>>
+    public class StudentHandler : ResHandler
+        , IRequestHandler<GetStudentQuery, Res<List<StudentDto>>>
+        , IRequestHandler<GetStudentByIdQuery, Res<StudentByIdDto>>
     {
         private readonly IStudentService _studentService;
 
@@ -28,6 +30,9 @@ namespace basel.core.Query.Handle
             return Success(studentDto);
         }
 
-
+        public async Task<Res<StudentByIdDto>> Handle(GetStudentByIdQuery request, CancellationToken cancellationToken)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
